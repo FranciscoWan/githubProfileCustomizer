@@ -61,9 +61,13 @@ If this repository helped you:
 
 ## 🤖 Technology
 ![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VyNHY1NHQ0bzF3bnI4a2VpZ2Jqbnhsb3Y5bTJ3a3VhNnozM3VjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif)
+<br>
 ![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFxMWVwNXVwOWhpeHBneDNuYTd5NGxoaGc1ajVoZXpmZXdxdmo1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3mZnuz4coJp8EBBm/giphy.gif)
+<br>
 ![Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZxajFkemwwbDNxd2J0Z2licnFjODcwd2w0OXg4enJlMnFnMXhnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.gif)
+
 ![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTN5ZzlucHNienZxMmcwb3JudTc4Z3Z0dWY5enk3c3E3eXpvamd6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif)
+
 ![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFwbHJmYXlhaXdhbGhjemRkNnJoZm43bmIwZXZzbmE2aWNwa2UyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)
 ![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDk4eTNtNWJibnRwNjNtYjcxczlqOGNxYms0cmhmZnd0cHp5d2o3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif)
 ![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDk4eTNtNWJibnRwNjNtYjcxczlqOGNxYms0cmhmZnd0cHp5d2o3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif)
