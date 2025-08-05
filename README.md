@@ -107,7 +107,18 @@ If this repository helped you:
 ![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGQ2dWp5M3dxbHY5cmVibDBmbnBxd3R1ODBncnd6bjk5c28xMzA3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 ![Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNiMGZ2cXFscXhlb2V6djUwaHF5NDdxNzE1cHY2MnZ2ejZlNmhucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YOczfjtC0H0IMBKhRf/giphy.gif)
+
+![Banner](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
+
+![Banner](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
+
+![Banner](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
+
+![Banner](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
+
+![Banner](https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif)
 <hr>
+<br>
 
 ## 🛠️ Programming language
 ![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmd1cXllMWFvdzZkOWVjZ3FzM3VwNjlzdjduYmUyZHNvMnZ2djBjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)
@@ -126,6 +137,7 @@ If this repository helped you:
 
 ![Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBuZjZrbzYwZmNrcHBieHlnNzUzdG85eHo2dzZud2drdml5czZ1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FR6VI9pRlISJX74Wuk/giphy.gif)
 <hr>
+<br>
 
 ## 👾 Pixel art
 ![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHN2N2UzMjJ4emYxeDdyNmhiNW1hODBvYXFnY285YnZoZ21qZzZwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
@@ -145,7 +157,10 @@ If this repository helped you:
 ![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdrOHZvYnNsbHRqbDcyMm1zMWw0czh4cnM1NmhvMDNnNWZodnN6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zsfxnYgAeiznBm2MYY/giphy.gif)
 
 ![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV1Y2JnY3BuNDEyNmFxOGQ0ZWNpMndnamFtZW9lNWM2eHFhbHZ2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TZedmbJADpXBgWiFFL/giphy.gif)
+
+![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <hr>
+<br>
 
 ## 🔁 Loop banners
 ![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M3dHhubzgzOTZ4cHdwa20yNXF3amh0amZnNHJvaTJjeGh0ZHBkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aariWjKu5N73y/giphy.gif)
