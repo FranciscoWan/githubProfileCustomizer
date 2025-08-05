@@ -29,7 +29,7 @@ Add the banner to your profile README or update your GitHub profile picture.
 
 📌 Example of using a banner:
 
-![Banner](https://github.com/YOUR_USERNAME/GitHub-Profile-Customizer/blob/main/banners/example.gif)
+"![Banner](https://github.com/YOUR_USERNAME/GitHub-Profile-Customizer/blob/main/banners/example.gif)"
 
 ⭐ Contribute
 Want to add more banners or avatars?
